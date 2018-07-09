@@ -1,2 +1,2 @@
 # DWResults
-Canoe Marathon Results app
+DWResults app
