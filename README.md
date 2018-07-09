@@ -1,2 +1,2 @@
-# canoe-marathon-results
+# DWResults
 Canoe Marathon Results app
