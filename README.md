@@ -1,2 +1,2 @@
-# DWResults
-Experimental DW Results system
+# canoe-marathon-results
+Canoe Marathon Results app
